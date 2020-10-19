@@ -1,0 +1,535 @@
+# LANGUAGE translation of https://www.gnu.org/education/misc/edu-misc.html
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-misc.html\n"
+"POT-Creation-Date: 2020-06-29 11:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "Education Miscellaneous Materials - GNU Project - Free Software Foundation"
+msgstr ""
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr ""
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr ""
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr ""
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr ""
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr ""
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/misc/\">Misc</a>&nbsp;/"
+msgstr ""
+
+#. type: Content of: <div><h2>
+msgid "Education Miscellaneous Materials"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"Here we list various kinds of materials that we use in the Education section "
+"of this website, such as pictures, videos, transcriptions and subtitles in "
+"various languages, and similar."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"The license of images and audio can be found by following the links to the "
+"pages where they are included. For videos, the license is stated in the "
+"video itself."
+msgstr ""
+
+#. type: Content of: <div><h3>
+msgid "Pictures"
+msgstr ""
+
+#. type: Content of: <div><h4>
+msgid "Case Studies"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/edu-cases-india-ambedkar.html\"> Ambedkar Community "
+"Computer Center (AC3)</a> Bangalore, India"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"RMS with Indian youth, jpeg <a href=\"/education/misc/ambedkar-sm.jpg\">97 "
+"KB</a>, <a href=\"/education/misc/ambedkar.jpg\">400 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/edu-cases-india-irimpanam.html\"> Vocational Higher "
+"Secondary School Irimpanam (VHSS Irimpanam)</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Students at a Free Software event, jpeg <a "
+"href=\"/education/misc/irimpanam-school-sm.jpg\">65 KB</a>, <a "
+"href=\"/education/misc/irimpanam-school.jpg\">245 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface in Malayalam, jpeg <a "
+"href=\"/education/misc/tuxpaint-sm.jpg\">46 KB</a>, <a "
+"href=\"/education/misc/tuxpaint.jpg\">193 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><h4>
+msgid "Resistance"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a "
+"href=\"/education/remote-education-children-freedom-privacy-at-stake.html\"> "
+"Remote Education: My Children's Freedom and Privacy at Stake</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Marta takes a clarinet lesson over Jitsi, png, <a "
+"href=\"/education/misc/jitsi-marta-espejo-sm.png\">359 KB</a>, <a "
+"href=\"/education/misc/jitsi-marta-espejo\">648 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Javi takes a trumpet lesson over Jitsi, png, <a "
+"href=\"/education/misc/jitsi-javi-garcia-sm.png\">311 KB</a>, <a "
+"href=\"/education/misc/jitsi-javi-garcia.png\">547 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><h4>
+msgid "Software"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Chinese (Simplified), png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.zh-cn.png\">30 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.zh-cn.png\">86 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface English, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.png\">30 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.png\">83 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface German, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.de.png\">45 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.de.png\">86 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Greek, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.el.png\">32 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.el.png\">84 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface French, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.fr.png\">31 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.fr.png\">86 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Italian, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.it.png\">30 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.it.png\">83 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Japanese, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.ja.png\">30 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.ja.png\">85 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Portuguese (Brazilian), png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.pt-br.png\">31 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.pt-br.png\">86 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Russian, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.ru.png\">31 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.ru.png\">86 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Spanish, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.es.png\">31 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.es.png\">86 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Turkish, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.tr.png\">31 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.tr.png\">85 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface Ukranian, png, <a "
+"href=\"/education/misc/tuxpaint-start-sm.uk.png\">31 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-start.uk.png\">87 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Tux Paint interface in Malayalam with stamps, jpeg, <a "
+"href=\"/education/misc/tuxpaint-stamps-sm.jpg\">65 KB</a>, <a "
+"href=\"/education/misc/tuxpaint-stamps.jpg\">298 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Appooppanthaady flower, jpeg, <a "
+"href=\"/education/misc/appooppanthaady-sm.jpg\">9 KB</a>, <a "
+"href=\"/education/misc/appooppanthaady.jpg\">22 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Anthoorium flower, jpeg, <a href=\"/education/misc/anthoorium-sm.jpg\">7 "
+"KB</a>, <a href=\"/education/misc/anthoorium.jpg\">25 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "<a href=\"/education/edu-software-gcompris.html\">GCompris</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"GCompris interface, jpeg <a href=\"/education/misc/gcompris-sm.jpg\">44 "
+"KB</a>, <a href=\"/education/misc/gcompris.jpg\">198 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><h3>
+msgid "Videos"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "<strong>Richard Stallman's video on Education</strong>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://audio-video.gnu.org/video/rms-education-es.ogv\"> Original "
+"version in Spanish without subtitles</a>, 20.7 MB."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "&nbsp; Other versions with embedded subtitles in the following languages:"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Dutch: <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.nl.ogv\"> "
+"52 MB</a> | <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.nl.ogv\"> "
+"13 MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"English: <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv\"> "
+"47 MB</a> | <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-low-sub.en.ogv\"> "
+"17 MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"French: <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.fr.ogv\"> "
+"56 MB</a> | <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-low-sub.fr.ogv\"> "
+"14 MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Italian: <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.it.ogv\"> "
+"47 MB</a> | <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-low-sub.it.ogv\"> "
+"11 MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Portuguese (Brazilian): <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.pt-br.ogv\"> "
+"46 MB</a> | <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-low-sub.pt-br.ogv\"> "
+"14 MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Spanish: <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.es.ogv\"> "
+"55 MB</a> | <a "
+"href=\"http://audio-video.gnu.org/video/rms-education-es-low-sub.es.ogv\"> "
+"17 MB</a>"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "<strong>How GIMP Changed Mani's Life - We Use GNU/Linux</strong>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://audio-video.gnu.org/video/we_use_gnu-linux_high.ogv\"> High "
+"resolution</a>, 146 MB."
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://audio-video.gnu.org/video/we_use_gnu-linux_low.ogv\"> Low "
+"resolution</a>, 15 MB."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "<strong>Freedom in Practice at Irimpanam School</strong>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://audio-video.gnu.org/video/irimpanam-high.ogv\"> Original "
+"version in Malayalam without subtitles</a>, 107 MB."
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"English: <a "
+"href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\"> 109 "
+"MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"French: <a "
+"href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.fr.ogv\"> 110 "
+"MB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Portuguese (Brazilian): <a "
+"href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.pt-br.ogv\"> 102 "
+"MB</a>"
+msgstr ""
+
+#. type: Content of: <div><h3>
+msgid "Video Transcriptions and Descriptions"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid "Transcriptions of Richard Stallman's video on education"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/misc/rms-education-es-transcription.sq.txt\"> "
+"Albanian</a> | <a "
+"href=\"/education/misc/rms-education-es-translation-to-nl.txt\"> Dutch</a> | "
+"<a href=\"/education/misc/rms-education-es-translation-to-en.txt\"> "
+"English</a> | <a "
+"href=\"/education/misc/rms-education-es-transcription.fr.txt\"> French</a> | "
+"<a href=\"/education/misc/rms-education-es-transcription.de.txt\"> "
+"German</a> | <a "
+"href=\"/education/misc/rms-education-es-transcription.it.txt\"> Italian</a> "
+"| <a href=\"/education/misc/rms-education-es-translation-to-pt-br.txt\"> "
+"Portuguese (Brazilian)</a> | <a "
+"href=\"/education/misc/rms-education-es-transcription.txt\"> Spanish</a> |"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Descriptions of the video &ldquo;How GIMP Changed Mani's Life - We Use "
+"GNU/Linux&rdquo;"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/misc/we_use_gnu-linux_description.hr.txt\"> "
+"Croatian</a> | <a "
+"href=\"/education/misc/we_use_gnu-linux_description.en.txt\"> English</a> | "
+"<a href=\"/education/misc/we_use_gnu-linux_description.fr.txt\"> French</a> "
+"| <a href=\"/education/misc/we_use_gnu-linux_description.pt-br.txt\"> "
+"Portuguese (Brazilian)</a> |"
+msgstr ""
+
+#. type: Content of: <div><h3>
+msgid "Video Subtitles in SubRip Format"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid "Subtitles for Richard Stallman's video on education"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/misc/rms-education-es-sub.sq.srt\">Albanian</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.nl.srt\">Dutch</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.en.srt\">English</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.fr.srt\">French</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.de.srt\">German</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.it.srt\">Italian</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.pt-br.srt\"> Portuguese "
+"(Brazilian)</a> | <a "
+"href=\"/education/misc/rms-education-es-sub.es.srt\">Spanish</a> |"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Subtitles for the video &ldquo;Freedom in Practice at Irimpanam "
+"School&rdquo;"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/misc/irimpanam.sq.srt\">Albanian</a> | <a "
+"href=\"/education/misc/irimpanam.en.srt\">English</a> | <a "
+"href=\"/education/misc/irimpanam.fr.srt\">French</a> | <a "
+"href=\"/education/misc/irimpanam.pt-br.srt\">Portuguese (Brazilian)</a> |"
+msgstr ""
+
+#. type: Content of: <div><h3>
+msgid "Audio"
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/edu-software-tuxpaint.html\"> Pronunciation in "
+"Malayalam of autochthonous flowers</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Appooppanthaady flower, Ogg Vorbis, <a "
+"href=\"/education/misc/appooppanthady.ogg\">35 KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Anthoorium flower, Ogg Vorbis, <a href=\"/education/misc/anthoorium.ogg\">42 "
+"KB</a>"
+msgstr ""
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Adeenia flower, Ogg Vorbis, <a href=\"/education/misc/adeenia.ogg\">30 "
+"KB</a>"
+msgstr ""
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a "
+"href=\"/server/standards/README.translations.html\">Translations README</a> "
+"for information on coordinating and contributing translations of this "
+"article."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2012, 2016-2018, 2020 Free Software Foundation, Inc."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" "
+"href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons "
+"Attribution-NoDerivatives 4.0 International License</a>."
+msgstr ""
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr ""
